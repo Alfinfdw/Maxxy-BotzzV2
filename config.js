@@ -1,33 +1,33 @@
 let fs = require('fs')
 
 //Info maszeh
-global.owner = ["6285380166282"]
-global.mods = ["6285380166282"]
+global.owner = ["6285608468994"]
+global.mods = ["6285608468994"]
 
-global.namabot = 'Maxxy Bot' //nama BOT Lu
-global.packname = 'Maxxy Bot'
-global.author = 'KAHFI XD' //nama Owner
+global.namabot = 'Syifa Bot⛱️' //nama BOT Lu
+global.packname = 'Syifa Bot⛱️'
+global.author = 'Tiktik XD' //nama Owner
 global.ownernya = '6285380166282'
 global.linkyt = 'https://www.youtube.com/@MaxxyBotz' //link yt lu
 global.linkig = 'https://instagram.com/kahfiofc' //link ig
 global.linkgh = '-' //link github lu
 global.titlebot = `⫹⫺ WhatsApp Bot | By Rizky`
-global.wm2 = 'KAHFI XD' //ganti aja kalau mau
-global.wm = 'Maxxy Bot'
+global.wm2 = 'Tiktik XD' //ganti aja kalau mau
+global.wm = 'Syifa Bot⛱️'
 global.colong1 = 'Ciss 📸'
-global.colong2 = 'Maxxy Botシ︎'
+global.colong2 = 'Syifa Bot⛱️シ︎'
 global.kontak2 = [
-['6285380166282', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
+['6285608468994', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
 ]
 
 //Biodata OWNER Bre
-global.ML = 'Maxxy FT Beatrix' //Akun ML lu
-global.gender = 'Cowok' //jenis kelamin lu
+global.ML = 'Gatau' //Akun ML lu
+global.gender = 'Gatau' //jenis kelamin lu
 global.agama = 'islam' //agama lu
 global.age = 'Privasi' //usia lu sekarang
 global.kelas = 'Privasi' //kelas lu
 global.hobi = 'Mangan/turu/ngegame' //hobi lu bre
-global.tempat = 'INDONESIA , Aceh , Aceh Timur' //tempat tinggal lu
+global.tempat = 'INDONESIA , Gatau , jawa Timur' //tempat tinggal lu
 
 global.APIs = { // API Prefix
   // name: 'https://website'
